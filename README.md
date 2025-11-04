@@ -3,4 +3,4 @@ libdefi.base.eth contributed to various smart contracts on Ethereum, focusing on
 
 npm:@walletconnect/web3wallet@1.1.1 to facilitate
 
-wallet connections in their projects
+wallet connections in their pro
